@@ -1,6 +1,6 @@
 # Welcome to Swiftride!
 
-- A Remix Project using a smart contract as a database
+- A Remix project using a smart contract as a database
 
 ## Current site
 
